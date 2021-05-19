@@ -10,7 +10,9 @@ Location: Greater Bay Area, but open to opportunities elsewhere
 
 ## Projects
 
-Links to projects will go here...
+### MakeSite
+
+[MakeSite](#/projects/MakeSite) is a golang static site generator.
 
 ## Work Experience
 
@@ -58,14 +60,18 @@ I attend [Make School](make.sc), a partner school to Dominican University of Cal
 
 Why? Given my past experiences with higher ed, I personally was drawn to Make School's accelerated and hands-on nature.
 
-Classes I take at Make School:
- - [ ] Server-Side Architecture and Frameworks (ft. Node/Express & Handlebars)
- - [ ] Testing and Architecture (ft. Python, Pylint, & Pytest)
- - [ ] Patterns & Practices in Strongly Typed Ecosystems (Go) (ft. Golang)
- - [ ] Art and the Sacred
- - [ ] Effective Communications 2
+Classes I'm taking this summer at Make School:
+ - [ ] Management & Leadership
+ - [ ] Contracting
 
 Classes I've taken at Make School:
+ - [x] Interview Practice
+ - [x] Advanced Backend Web Patterns (ft. Node/Express, Socket.io, Serverless, and more)
+ - [x] Server-Side Architecture and Frameworks (ft. Node/Express & Handlebars)
+ - [x] Testing and Architecture (ft. Python, Pylint, & Pytest)
+ - [x] Patterns & Practices in Strongly Typed Ecosystems (Go) (ft. Golang)
+ - [x] Art and the Sacred
+ - [x] Effective Communications 2
  - [x] Project Intensives in between Semesters
  - [x] DevOps, Deployments, & Containers (ft. Docker)
  - [x] JavaScript Foundations (ft. React)
