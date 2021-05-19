@@ -12,7 +12,7 @@ Location: Greater Bay Area, but open to opportunities elsewhere
 
 ### MakeSite
 
-[MakeSite](#/projects/MakeSite) is a golang static site generator.
+[MakeSite](projects/MakeSite) is a golang static site generator.
 
 ## Work Experience
 
