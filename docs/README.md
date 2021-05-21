@@ -5,7 +5,9 @@ Hi, I'm Megan OBryan. This is my blog where I talk about the projects I'm workin
 ## Contact++
 
 Email: [megan.obryan52@gmail.com](mailto:megan.obryan52@gmail.com)
+
 LinkedIn: [linkedin.com/in/megan-a-obryan](https://linkedin.com/in/megan-a-obryan)
+
 GitHub: [github.com/atleastzero](https://github.com/atleastzero)
 
 Location: Greater Bay Area, but open to opportunities elsewhere
@@ -32,21 +34,9 @@ I'm super ecstatic to report that I passed this course with honors.
 
 This course was a lot like the cybersecurity course I took at Make School, but more offensive. We were essential graded on labs and a CTF that required us to implement exploits we'd learned about.
 
-Material Covered
+[If you want to know more about my experience with CodePath's Cybersecurity Course, click here.](extra-learning/CodePath/Cybersecurity.md)
 
- - [x] Data Exposures
-   - [x] IDOR
-   - [x] URL Manipulation
- - [x] Cookie and Session Based Attacks
-   - [x] CSRF
-   - [x] Session Hijacking
-   - [x] Session Fixation
- - [x] Cross-Site Scripting (XSS)
- - [x] Malicious Input
-   - [x] SQLI
- - [x] Cryptography
- - [x] User Authentication
-   - [x] Login Page Vulnerabilities
+[If you want to know more about the course via CodePath, click here.](https://courses.codepath.org/snippets/cybersecurity_university/syllabus)
 
 #### Advanced Interview Preparation
 
@@ -56,35 +46,9 @@ Material Covered
 
 I'll be taking this course over summer to hopefully level up my interviewing skills. The Advanced course means I'll be focusing on Advanced Technical topics that often come up in interviews.
 
-Topics Covered
+[If you want to know more about my experience with CodePath's Advanced Interview Prep Course, click here.](extra-learning/CodePath/InterviewPrep.md)
 
- - [x] Behavioral and general interviewing tips
- - [x] Practical data structures
- - [x] Implementing efficient algorithms
- - [x] Specific Technical Topics:
-   - [x] Core data structures:
-     - [x] Hash Tables
-     - [x] Arrays
-     - [x] Linked Lists
-   - [x] Complex data structures
-     - [x] Binary Trees
-     - [x] Heaps
-   - [x] Object Oriented Design/Systems Design
-   - [x] Searches
-     - [x] Binary Search
-     - [x] Breadth-first Search
-     - [x] Depth-first Search
-   - [x] Sorting
-     - [x] Merge Sort
-     - [x] Quick Sort
-   - [x] Recursion and Combinations
-   - [x] Dynamic Programming
-   - [x] Greedy Algorithms
- - [x] Fireside Q&A chats and info sessions with professional engineers
- - [x] Industry mentors helping with mock interviews
- - [x] Learn what it's like in the day-to-day of different software engineering roles
- - [x] What are the common challenges faces in your first full-time software role
- - [x] Lots of experience with HackerRank Assessments
+[If you want to know more about the course via CodePath, click here.](https://courses.codepath.org/snippets/advanced_software_eng/overview)
 
 ### Forage
 
@@ -98,15 +62,10 @@ Forage's virtual work experience programs give students the opportunity to learn
 
 As you might imagine, this virtual experience from YCombinator includes modules testing skills you might use at a YC startup. Specifically, these are skills for a software engineer.
 
-This experience had me work on the following skills:
- - [x] Frontend skills
-   - [x] React
-   - [x] Dragula
- - [x] Backend skills
-   - [x] Node.js/express
- - [x] Analytics skills
-   - [x] Utilizing SQL queries
- - [x] Applying to YC internships
+[If you want to know more about my experience with Forage's Work at a YC Startup Program, click here.](extra-learning/Forage/YC-Startup.md)
+
+[If you want to know more about the course via Forage, click here.](https://www.theforage.com/virtual-internships/prototype/oRMogWRHeewqHzA7u/College-students:-Learn-how-to-work-at-a-YC-startup-)
+
 
 ### Educative
 
@@ -120,18 +79,9 @@ Educative is an online text-based learning platform where you can "learn in-dema
 
 This course served as my introduction to Next.js, a JAMstack tool by Vercel, including hybrid static & server rendering, route pre-fetching, and more.
 
-This course covered the following skills:
- - [x] Next.js Development
-   - [x] Statically Generated pages with no data
-   - [x] Statically Generated pages with once-fetched data
-   - [x] Dynamically Loading data with React hooks
-   - [x] Dynamic Routes
-   - [x] Server Side Rendered Pages with data
-   - [x] Using Head
-     - [x] Static and Dynamically created Titles and Meta Descriptions
-   - [x] Using Links
- - [x] Image Optimization with WebP
- - [x] Vercel Deployment
+[If you want to know more about my experience with Educative's Next.js course, click here.](extra-learning/Educative/Next.js.md)
+
+[If you want to know more about the course via Educative, click here.](https://www.educative.io/courses/next-js-build-react-apps)
 
 ## Work Experience
 
@@ -179,37 +129,7 @@ I attend [Make School](make.sc), a partner school to Dominican University of Cal
 
 Why? Given my past experiences with higher ed, I personally was drawn to Make School's accelerated and hands-on nature.
 
-Classes I'm taking this summer at Make School:
- - [ ] Management & Leadership
- - [ ] Contracting
-
-Classes I've taken at Make School:
- - [x] Interview Practice
- - [x] Advanced Backend Web Patterns (ft. Node/Express, Socket.io, Serverless, and more)
- - [x] Server-Side Architecture and Frameworks (ft. Node/Express & Handlebars)
- - [x] Testing and Architecture (ft. Python, Pylint, & Pytest)
- - [x] Patterns & Practices in Strongly Typed Ecosystems (Go) (ft. Golang)
- - [x] Art and the Sacred
- - [x] Effective Communications 2
- - [x] Project Intensives in between Semesters
- - [x] DevOps, Deployments, & Containers (ft. Docker)
- - [x] JavaScript Foundations (ft. React)
- - [x] Industry Collaboration Project (Parts 1 & 2)
- - [x] Introduction to Web Security
- - [x] Decentralized Apps & Distributed Protocols (ft. Solidity)
- - [x] Effective Communications 1
- - [x] Introduction to Creative Writing
- - [x] Supervised Work Experience (SWE Internship)
- - [x] Team Software Project (ft. React & react-dnd)
- - [x] Core Data Structures & Algorithms (ft. Python)
- - [x] Introduction to iOS Development in Swift
- - [x] Authentication, Authorization, and Advanced Queries (ft. Django)
- - [x] Introduction to Data Structures (ft. Python)
- - [x] Introduction to Swift
- - [x] Agile Development & UX/UI (ft. Bootstrap, HTML, & CSS)
- - [x] Object Oriented Programming (ft. Python)
- - [x] RESTful & Resourceful MVC Architecture (ft. Python's Flask)
- - [x] Introduction to Product Development
+[If you'd like to know more about the coursework I've personally taken at Make School, click here.](education/Make-School.md)
 
 ### Arizona State University
 
@@ -219,19 +139,7 @@ Classes I've taken at Make School:
 
 I went to ASU as a knee jerk reaction to leaving Embry-Riddle Aeronautical University. Really I needed a break from school, but the classes I did take seriously had some great content.
 
-Classes I took at ASU:
- - [x] Software Enterprise: Design & Process
- - [x] Software Enterprise: Testing & Quality Assurance (ft. Java & JUnit)
- - [x] Introduction to Psychology
- - [x] Engineering Statistics
- - [x] Design & Analysis: Data Structures & Algorithms
- - [x] Software Enterprise: Personal Process
- - [x] American Music
- - [x] Microcomputer Architecture & Programming
- - [x] Programming Languages & Their Execution Environments (ft. Java)
- - [x] Core Data Structures with Object Oriented Programming (ft. Java)
- - [x] Discrete Mathematical Structures
- - [x] General Chemistry for Engineers
+[If you'd like to know more about the coursework I've personally taken at ASU, click here.](education/ASU.md)
 
 ### Embry-Riddle Aeronautical University
 
@@ -241,19 +149,5 @@ Classes I took at ASU:
 
 I loved ERAU and Prescott, AZ, but had to leave due to some irreconcilable concerns with the school over how to handle my own mental health
 
-Classes I took at ERAU:
- - [x] Physics for Engineers III + Lab
- - [x] Values & Ethics
- - [x] Statics
- - [x] Engineering Economics
- - [x] Technical Report Writing
- - [x] Physics for Engineers II
- - [x] Probability & Statistics
- - [x] Themes in Humanities
- - [x] Computer Science II (ft. C++)
- - [x] Digital Circuit Design + Lab (ft. Verilog & VHDL)
- - [x] Physics for Engineers I
- - [x] Introduction to Discrete Structures
- - [x] Introduction to Engineering (ft. Lego Mindstorms)
- - [x] Computer Science I (ft. C)
- - [x] English Composition
+
+[If you'd like to know more about the coursework I've personally taken at ERAU, click here.](education/Embry-Riddle.md)
