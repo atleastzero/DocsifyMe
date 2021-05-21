@@ -5,6 +5,8 @@ Hi, I'm Megan OBryan. This is my blog where I talk about the projects I'm workin
 ## Contact++
 
 Email: [megan.obryan52@gmail.com](mailto:megan.obryan52@gmail.com)
+LinkedIn: [linkedin.com/in/megan-a-obryan](https://linkedin.com/in/megan-a-obryan)
+GitHub: [github.com/atleastzero](https://github.com/atleastzero)
 
 Location: Greater Bay Area, but open to opportunities elsewhere
 
@@ -18,11 +20,13 @@ Location: Greater Bay Area, but open to opportunities elsewhere
 
 ### CodePath
 
+[CodePath](https://codepath.org) provides college students with no-cost coding courses, mentorship, and career support to prepare them for careers in tech. In addition to the courses I've taken with them below, I've also been to their January 2021 Career Fair.
+
 #### Cybersecurity Course
 
-| Where | When |
-| ----- | ---- |
-| Remote | Spring 2021 (6 weeks) |
+| Where | When | Certificate |
+| ----- | ---- | ----------- |
+| Remote | Spring 2021 (6 weeks) | [Certificate](https://drive.google.com/file/d/1Ts4VAinZkkP7vmHtV6C37Vif4QmYAtBf/view) |
 
 I'm super ecstatic to report that I passed this course with honors.
 
@@ -81,6 +85,53 @@ Topics Covered
  - [x] Learn what it's like in the day-to-day of different software engineering roles
  - [x] What are the common challenges faces in your first full-time software role
  - [x] Lots of experience with HackerRank Assessments
+
+### Forage
+
+Forage's virtual work experience programs give students the opportunity to learn career skills from Fortune 500 companies
+
+#### Learn how to work at a YC startup program
+
+| Where | When |
+| ----- | ---- |
+| Remote | Finished this May 21, 2021 |
+
+As you might imagine, this virtual experience from YCombinator includes modules testing skills you might use at a YC startup. Specifically, these are skills for a software engineer.
+
+This experience had me work on the following skills:
+ - [x] Frontend skills
+   - [x] React
+   - [x] Dragula
+ - [x] Backend skills
+   - [x] Node.js/express
+ - [x] Analytics skills
+   - [x] Utilizing SQL queries
+ - [x] Applying to YC internships
+
+### Educative
+
+Educative is an online text-based learning platform where you can "learn in-demand tech skills in half the time."
+
+#### Next.js - The ultimate way to build React apps
+
+| Where | When | Certificate |
+| ----- | ---- | ----------- |
+| Remote | Finished this May 21, 2021 | [Certificate](https://www.educative.io/verify-certificate/OZwK42rwEGMswGrD4yv8Z3FWLlJgzQRxKUB) |
+
+This course served as my introduction to Next.js, a JAMstack tool by Vercel, including hybrid static & server rendering, route pre-fetching, and more.
+
+This course covered the following skills:
+ - [x] Next.js Development
+   - [x] Statically Generated pages with no data
+   - [x] Statically Generated pages with once-fetched data
+   - [x] Dynamically Loading data with React hooks
+   - [x] Dynamic Routes
+   - [x] Server Side Rendered Pages with data
+   - [x] Using Head
+     - [x] Static and Dynamically created Titles and Meta Descriptions
+   - [x] Using Links
+ - [x] Image Optimization with WebP
+ - [x] Vercel Deployment
 
 ## Work Experience
 
