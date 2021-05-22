@@ -14,7 +14,7 @@ Location: Greater Bay Area, but open to opportunities elsewhere
 
 ## Projects +
 
-[Check out my projects in more depth here.](projects/README.md)
+Check out my projects in more depth [here](projects/README.md).
 
 ### FakeLang +
 
@@ -129,6 +129,8 @@ This course served as my introduction to Next.js, a JAMstack tool by Vercel, inc
 
 ## Education +
 
+Check out my education in more depth [here](education/README.md).
+
 ### Make School +
 
 | Status | What | When | Expected Graduation |
@@ -170,3 +172,11 @@ If you'd like to know more about the coursework I've personally taken at ERAU, c
 I took a few courses at Pierce while in high school, anticipating that I'd need to take more math courses in college.
 
 If you'd like to know more about the coursework I've personally taken at Pierce, click [here](education/Pierce.md).
+
+### El Camino Real Charter High School +
+
+| Status | What | When |
+| ------ | ---- | ---- |
+| Complete! | High School Diploma | August 2011 to May 2015 |
+
+Ahh high school... I'm not a big fan. If you'd like to know more about coursework I completed at El Camino, click [here](education/El-Camino).

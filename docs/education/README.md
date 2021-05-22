@@ -97,8 +97,21 @@ Classes I took at ERAU:
 
 I took a few courses at Pierce while in high school, anticipating that I'd need to take more math courses in college.
 
-If you'd like to know more about the coursework I've personally taken at Pierce, click [here](education/Pierce.md).
-
+Classes I Took at Pierce:
 - [x] Calculus 3
 - [x] Differential Equations
 - [x] Linear Algebra
+
+### El Camino Real Charter High School
+
+| Status | What | When |
+| ------ | ---- | ---- |
+| Complete! | High School Diploma | August 2011 to May 2015 |
+
+Classes I Took at El Camino:
+- [x] AP Calculus BC
+- [x] AP Computer Science A
+- [x] AP Chemistry
+- [x] AP US Government
+- [x] Various Film Classes
+- [x] NJROTC
