@@ -6,7 +6,7 @@
 
 Classes I Took at El Camino:
 - [x] AP Calculus BC
-- [x] AP Computer Science A
+- [x] AP Computer Science A (ft. Java)
 - [x] AP Chemistry
 - [x] AP US Government
 - [x] Various Film Classes
