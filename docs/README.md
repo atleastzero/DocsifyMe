@@ -14,6 +14,12 @@ Location: Greater Bay Area, but open to opportunities elsewhere
 
 ## Projects +
 
+[Check out my projects in more depth here.](projects/README.md)
+
+### Accordify +
+
+[Accordify](/projects/Accordify.md) is a docsify plugin that enables docsify creators to easily add accordions.
+
 ### MakeSite +
 
 [MakeSite](projects/MakeSite) is a golang static site generator.
