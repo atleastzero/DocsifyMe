@@ -16,6 +16,10 @@ Location: Greater Bay Area, but open to opportunities elsewhere
 
 [Check out my projects in more depth here.](projects/README.md)
 
+### FakeLang +
+
+[FakeLang](/projects/FakeLang.md) is an npm package that allows for fake language generation and translation.
+
 ### Accordify +
 
 [Accordify](/projects/Accordify.md) is a docsify plugin that enables docsify creators to easily add accordions.
