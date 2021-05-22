@@ -12,19 +12,19 @@ GitHub: [github.com/atleastzero](https://github.com/atleastzero)
 
 Location: Greater Bay Area, but open to opportunities elsewhere
 
-## Projects
+## Projects +
 
-### MakeSite
+### MakeSite +
 
 [MakeSite](projects/MakeSite) is a golang static site generator.
 
-## Extracurricular Learning
+## Extracurricular Learning +
 
-### CodePath
+### CodePath +
 
 [CodePath](https://codepath.org) provides college students with no-cost coding courses, mentorship, and career support to prepare them for careers in tech. In addition to the courses I've taken with them below, I've also been to their January 2021 Career Fair.
 
-#### Cybersecurity Course
+#### Cybersecurity Course +
 
 | Where | When | Certificate |
 | ----- | ---- | ----------- |
@@ -38,7 +38,7 @@ This course was a lot like the cybersecurity course I took at Make School, but m
 
 [If you want to know more about the course via CodePath, click here.](https://courses.codepath.org/snippets/cybersecurity_university/syllabus)
 
-#### Advanced Interview Preparation
+#### Advanced Interview Preparation +
 
 | Where | When |
 | ----- | ---- |
@@ -50,11 +50,11 @@ I'll be taking this course over summer to hopefully level up my interviewing ski
 
 [If you want to know more about the course via CodePath, click here.](https://courses.codepath.org/snippets/advanced_software_eng/overview)
 
-### Forage
+### Forage +
 
 Forage's virtual work experience programs give students the opportunity to learn career skills from Fortune 500 companies
 
-#### Learn how to work at a YC startup program
+#### Learn how to work at a YC startup program +
 
 | Where | When |
 | ----- | ---- |
@@ -67,11 +67,11 @@ As you might imagine, this virtual experience from YCombinator includes modules 
 [If you want to know more about the course via Forage, click here.](https://www.theforage.com/virtual-internships/prototype/oRMogWRHeewqHzA7u/College-students:-Learn-how-to-work-at-a-YC-startup-)
 
 
-### Educative
+### Educative +
 
 Educative is an online text-based learning platform where you can "learn in-demand tech skills in half the time."
 
-#### Next.js - The ultimate way to build React apps
+#### Next.js - The ultimate way to build React apps +
 
 | Where | When | Certificate |
 | ----- | ---- | ----------- |
@@ -83,9 +83,9 @@ This course served as my introduction to Next.js, a JAMstack tool by Vercel, inc
 
 [If you want to know more about the course via Educative, click here.](https://www.educative.io/courses/next-js-build-react-apps)
 
-## Work Experience
+## Work Experience +
 
-### Resident Assistant at Make School
+### Resident Assistant at Make School +
 
 | Where | When |
 | ----------------- | ----------------------------------- |
@@ -93,7 +93,7 @@ This course served as my introduction to Next.js, a JAMstack tool by Vercel, inc
 
  - Managing administrative tasks, including maintenance requests, room moves, and mail management.
 
-### Software Engineering Intern at CodeHS, Inc.
+### Software Engineering Intern at CodeHS, Inc. +
 
 | Where | When |
 | ----------------- | ----------------------------------- |
@@ -101,7 +101,7 @@ This course served as my introduction to Next.js, a JAMstack tool by Vercel, inc
 
  - Built production code (primarily in Django) to codebase serving young computer science students across the nation.
 
-### Stock Associate at Old Navy
+### Stock Associate at Old Navy +
 
 | Where | When |
 | ----------------- | ----------------------------------- |
@@ -109,7 +109,7 @@ This course served as my introduction to Next.js, a JAMstack tool by Vercel, inc
 
  - Carried out duties within a fast-paced retail environment, including assisting customers directly and managing the fitting room.
 
-### Tutor at Tutor.com
+### Tutor at Tutor.com +
 
 | Where | When |
 | ----------------- | ----------------------------------- |
@@ -117,9 +117,9 @@ This course served as my introduction to Next.js, a JAMstack tool by Vercel, inc
 
  - Delivered high school math, principles of computer science, and programming tutoring to high schoolers and college students using a live online classroom experience.
 
-## Education
+## Education +
 
-### Make School
+### Make School +
 
 | Status | What | When | Expected Graduation |
 | ---------- | ----------- | ---------- | ----- |
@@ -131,7 +131,7 @@ Why? Given my past experiences with higher ed, I personally was drawn to Make Sc
 
 [If you'd like to know more about the coursework I've personally taken at Make School, click here.](education/Make-School.md)
 
-### Arizona State University
+### Arizona State University +
 
 | Status | What | When |
 | ---------- | ----------- | ---------- |
@@ -141,13 +141,12 @@ I went to ASU as a knee jerk reaction to leaving Embry-Riddle Aeronautical Unive
 
 [If you'd like to know more about the coursework I've personally taken at ASU, click here.](education/ASU.md)
 
-### Embry-Riddle Aeronautical University
+### Embry-Riddle Aeronautical University +
 
 | Status | What | When |
 | ---------- | ----------- | ---------- |
 | Incomplete | B.S. in Software Engineering | August 2015 to December 2016 |
 
 I loved ERAU and Prescott, AZ, but had to leave due to some irreconcilable concerns with the school over how to handle my own mental health
-
 
 [If you'd like to know more about the coursework I've personally taken at ERAU, click here.](education/Embry-Riddle.md)
