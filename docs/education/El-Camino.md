@@ -1,4 +1,4 @@
-### El Camino Real Charter High School
+# El Camino Real Charter High School
 
 | Status | What | When |
 | ------ | ---- | ---- |

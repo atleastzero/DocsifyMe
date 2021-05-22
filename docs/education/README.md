@@ -102,7 +102,7 @@ Classes I Took at Pierce:
 - [x] Differential Equations
 - [x] Linear Algebra
 
-### El Camino Real Charter High School
+## El Camino Real Charter High School
 
 | Status | What | When |
 | ------ | ---- | ---- |
