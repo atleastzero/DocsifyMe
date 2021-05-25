@@ -30,6 +30,22 @@ Check out my projects in more depth [here](projects/README.md).
 
 ## Extracurricular Learning +
 
+Check out what I learn about outside of school in more depth [here](extra-learning/README.md).
+
+### University of South Florida +
+
+USF decided to offer remote certificate programs during the COVID-19 pandemic. I was most interested in their DEI in the Workplace certificate.
+
+#### Diversity, Equity and Inclusion in the Workplace +
+
+| Where | When | Certificate |
+| ----- | ---- | ----------- |
+| Remote | Spring 2021 (7 weeks) | Pending (available June 1st?) |
+
+Although I normally reserve this section for technical courses I do outside of school, I also decided to take USF's DEI Certificate program. I thought the course material looked important on a brochure and decided to dive into DEI as well as technical topics.
+
+If you want to know more about my experience with USF's DEI Course, click [here](extra-learning/USF/DEI-in-the-workplace.md).
+
 ### CodePath +
 
 [CodePath](https://codepath.org) provides college students with no-cost coding courses, mentorship, and career support to prepare them for careers in tech. In addition to the courses I've taken with them below, I've also been to their January 2021 Career Fair.
@@ -44,9 +60,9 @@ I'm super ecstatic to report that I passed this course with honors.
 
 This course was a lot like the cybersecurity course I took at Make School, but more offensive. We were essential graded on labs and a CTF that required us to implement exploits we'd learned about.
 
-[If you want to know more about my experience with CodePath's Cybersecurity Course, click here.](extra-learning/CodePath/Cybersecurity.md)
+If you want to know more about my experience with CodePath's Cybersecurity Course, click [here](extra-learning/CodePath/Cybersecurity.md).
 
-[If you want to know more about the course via CodePath, click here.](https://courses.codepath.org/snippets/cybersecurity_university/syllabus)
+If you want to know more about the course via CodePath, click [here](https://courses.codepath.org/snippets/cybersecurity_university/syllabus).
 
 #### Advanced Interview Preparation +
 
