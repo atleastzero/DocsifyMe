@@ -1,18 +1,16 @@
 # Make School
 
-| Status | What | When | Expected Graduation |
-| ---------- | ----------- | ---------- | ----- |
-| In Progress | B.S. in Applied Computer Science | August 2019 to Present | August 2021 |
+| Status | What | When |
+| ---------- | ----------- | ---------- |
+| Graduated | B.S. in Applied Computer Science | August 2019 to July 2021 |
 
-I attend [Make School](make.sc), a partner school to Dominican University of California. It'll say Dominican University of California on my diploma.
+I attended [Make School](make.sc), a partner school to Dominican University of California. It'll say Dominican University of California on my diploma.
 
 Why? Given my past experiences with higher ed, I personally was drawn to Make School's accelerated and hands-on nature.
 
-Classes I'm taking this summer at Make School:
- - [ ] Management & Leadership
- - [ ] Contracting
-
-Classes I've taken at Make School:
+Classes I took at Make School:
+ - [x] Management & Leadership
+ - [x] Contracting
  - [x] Interview Practice
  - [x] Advanced Backend Web Patterns (ft. Node/Express, Socket.io, Serverless, and more)
  - [x] Server-Side Architecture and Frameworks (ft. Node/Express & Handlebars)

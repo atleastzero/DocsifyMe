@@ -14,15 +14,19 @@ Location: Greater Bay Area, but open to opportunities elsewhere
 
 ## Projects +
 
-Check out my projects in more depth [here](projects/README.md).
+Check out my projects in more depth [here](projects/README.md)
+
+### Accordify +
+
+[Accordify](/projects/Accordify.md) is a docsify plugin that enables docsify creators to easily add accordions. I use this on this site!
+
+### CustomHomepage +
+
+[CustomHomepage](/projects/CustomHomepage.md) is a React project I built for a Make School intensive that features drag and drop widgets.
 
 ### FakeLang +
 
 [FakeLang](/projects/FakeLang.md) is an npm package that allows for fake language generation and translation.
-
-### Accordify +
-
-[Accordify](/projects/Accordify.md) is a docsify plugin that enables docsify creators to easily add accordions.
 
 ### MakeSite +
 
@@ -149,11 +153,11 @@ Check out my education in more depth [here](education/README.md).
 
 ### Make School +
 
-| Status | What | When | Expected Graduation |
-| ---------- | ----------- | ---------- | ----- |
-| In Progress | B.S. in Applied Computer Science | August 2019 to Present | August 2021 |
+| Status | What | When |
+| ---------- | ----------- | ---------- |
+| Graduated! | B.S. in Applied Computer Science | August 2019 to July 2021 |
 
-I attend [Make School](make.sc), a partner school to Dominican University of California. It'll say Dominican University of California on my diploma.
+I attended [Make School](make.sc), a partner school to Dominican University of California. It'll say Dominican University of California on my diploma.
 
 Why? Given my past experiences with higher ed, I personally was drawn to Make School's accelerated and hands-on nature.
 
