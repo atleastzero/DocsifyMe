@@ -6,7 +6,8 @@
 
 I took a few courses at Pierce while in high school, anticipating that I'd need to take more math courses in college.
 
-Classes I took at Pierce:
-- [x] Calculus 3
-- [x] Differential Equations
-- [x] Linear Algebra
+## Math Courses I took at Pierce +
+
+ - [x] Calculus 3
+ - [x] Differential Equations
+ - [x] Linear Algebra
