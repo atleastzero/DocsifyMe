@@ -68,18 +68,6 @@ If you want to know more about my experience with CodePath's Cybersecurity Cours
 
 If you want to know more about the course via CodePath, click [here](https://courses.codepath.org/snippets/cybersecurity_university/syllabus).
 
-#### Advanced Interview Preparation +
-
-| Where | When |
-| ----- | ---- |
-| Remote | Summer 2021 (12 weeks) |
-
-I'll be taking this course over summer to hopefully level up my interviewing skills. The Advanced course means I'll be focusing on Advanced Technical topics that often come up in interviews.
-
-[If you want to know more about my experience with CodePath's Advanced Interview Prep Course, click here.](extra-learning/CodePath/InterviewPrep.md)
-
-[If you want to know more about the course via CodePath, click here.](https://courses.codepath.org/snippets/advanced_software_eng/overview)
-
 ### Forage +
 
 Forage's virtual work experience programs give students the opportunity to learn career skills from Fortune 500 companies
