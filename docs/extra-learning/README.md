@@ -14,15 +14,6 @@ USF decided to offer remote certificate programs during the COVID-19 pandemic. I
 
 Although I normally reserve this section for technical courses I do outside of school, I also decided to take USF's DEI Certificate program. I thought the course material looked important on a brochure and decided to dive into DEI as well as technical topics.
 
-This course covered the following topics:
- - [x] Emotional Intelligence
- - [x] Stereotypes & Biases
- - [x] Understand Your Organization
- - [x] Future of Your Organization Through Diversity & Inclusion
- - [x] Recruitment & Retention
- - [x] Community Outreach
- - [x] Sustainable Business Model
-
 ## CodePath
 
 [CodePath](https://codepath.org) provides college students with no-cost coding courses, mentorship, and career support to prepare them for careers in tech. In addition to the courses I've taken with them below, I've also been to their January 2021 Career Fair.
@@ -37,22 +28,6 @@ I'm super ecstatic to report that I passed this course with honors.
 
 This course was a lot like the cybersecurity course I took at Make School, but more offensive. We were essential graded on labs and a CTF that required us to implement exploits we'd learned about.
 
-Material Covered
-
- - [x] Data Exposures
-   - [x] IDOR
-   - [x] URL Manipulation
- - [x] Cookie and Session Based Attacks
-   - [x] CSRF
-   - [x] Session Hijacking
-   - [x] Session Fixation
- - [x] Cross-Site Scripting (XSS)
- - [x] Malicious Input
-   - [x] SQLI
- - [x] Cryptography
- - [x] User Authentication
-   - [x] Login Page Vulnerabilities
-
 ## Forage
 
 Forage's virtual work experience programs give students the opportunity to learn career skills from Fortune 500 companies
@@ -64,16 +39,6 @@ Forage's virtual work experience programs give students the opportunity to learn
 | Remote | Finished this May 21, 2021 |
 
 As you might imagine, this virtual experience from YCombinator includes modules testing skills you might use at a YC startup. Specifically, these are skills for a software engineer.
-
-This experience had me work on the following skills:
- - [x] Frontend skills
-   - [x] React
-   - [x] Dragula
- - [x] Backend skills
-   - [x] Node.js/express
- - [x] Analytics skills
-   - [x] Utilizing SQL queries
- - [x] Applying to YC internships
 
 ## Educative
 
@@ -87,15 +52,14 @@ Educative is an online text-based learning platform where you can "learn in-dema
 
 This course served as my introduction to Next.js, a JAMstack tool by Vercel, including hybrid static & server rendering, route pre-fetching, and more.
 
-This course covered the following skills:
- - [x] Next.js Development
-   - [x] Statically Generated pages with no data
-   - [x] Statically Generated pages with once-fetched data
-   - [x] Dynamically Loading data with React hooks
-   - [x] Dynamic Routes
-   - [x] Server Side Rendered Pages with data
-   - [x] Using Head
-     - [x] Static and Dynamically created Titles and Meta Descriptions
-   - [x] Using Links
- - [x] Image Optimization with WebP
- - [x] Vercel Deployment
+## Udemy
+
+[Udemy](https://udemy.com) is a for-profit massive open online course provider aimed at professional adults and students.
+
+### Complete Java SE 8 Developer Bootcamp - OCA Prep Included
+
+| Where | When | Certificate |
+| ----- | ---- | ----------- |
+| Remote | 7 Dec 2021 | [Certificate](https://www.udemy.com/certificate/UC-2f9f7d84-1744-4890-9d8b-895c43d0474e/?utm_campaign=email&utm_source=sendgrid.com&utm_medium=email) |
+
+This course covered Java Fundamentals and served as a refresher and supplement to what I learned about Java in High School and from ASU.

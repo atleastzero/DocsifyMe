@@ -133,6 +133,22 @@ This course served as my introduction to Next.js, a JAMstack tool by Vercel, inc
 
 [If you want to know more about the course via Educative, click here.](https://www.educative.io/courses/next-js-build-react-apps)
 
+#### Udemy +
+
+[Udemy](https://udemy.com) is a for-profit massive open online course provider aimed at professional adults and students.
+
+##### Complete Java SE 8 Developer Bootcamp - OCA Prep Included +
+
+| Where | When | Certificate |
+| ----- | ---- | ----------- |
+| Remote | 7 Dec 2021 | [Certificate](https://www.udemy.com/certificate/UC-2f9f7d84-1744-4890-9d8b-895c43d0474e/?utm_campaign=email&utm_source=sendgrid.com&utm_medium=email) |
+
+This course covered Java Fundamentals and served as a refresher and supplement to what I learned about Java in High School and from ASU.
+
+[If you want to know more about my experience with the Java course I took from Udemy, click here.](extra-learning/Udemy/JavaSE8.md)
+
+[If you want to know more about the course via Udemy, click here.](https://www.udemy.com/course/learn-java-se-8-and-prepare-for-the-java-associate-exam/)
+
 ## Projects +
 
 Check out my projects in more depth [here](projects/README.md).
