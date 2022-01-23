@@ -156,6 +156,7 @@ This course covered the following skills:
  - [x] Thymeleaf
  - [x] Spring Data
  - [x] Error Handling
+
 #### Udemy +
 
 [Udemy](https://udemy.com) is a for-profit massive open online course provider aimed at professional adults and students.
