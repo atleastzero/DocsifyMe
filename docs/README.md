@@ -196,7 +196,7 @@ This course was a very in depth overview of the Spring Framework.
 
 [If you want to know more about the course via Udemy, click here.](https://www.udemy.com/course/spring-tutorial-for-beginners/)
 
-##### Testing Spring Boot: Beginner to Guru @ Udemy +
+##### Testing Spring Boot: Beginner to Guru +
 
 | Where | When | Certificate |
 | ----- | ---- | ----------- |
