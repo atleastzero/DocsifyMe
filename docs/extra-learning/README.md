@@ -64,10 +64,18 @@ This course served as my introduction to Next.js, a JAMstack tool by Vercel, inc
 
 This course covered Java Fundamentals and served as a refresher and supplement to what I learned about Java in High School and from ASU.
 
-### Learn Test Driven Development in Java @ Udemy
+### Learn Test Driven Development in Java
 
 | Where | When | Certificate |
 | ----- | ---- | ----------- |
 | Remote | 15 Dec 2021 | [Certificate](https://www.udemy.com/certificate/UC-9381d255-eba4-4673-9321-81783d031f6b/) |
 
 This course covered Test Driven Development concepts with Java specific examples.
+
+### Spring Framework Master Class - Java Spring the Modern Way
+
+| Where | When | Certificate |
+| ----- | ---- | ----------- |
+| Remote | 17 Jan 2022 | [Certificate](https://www.udemy.com/certificate/UC-67b5e18a-235b-4433-b7b9-09af290feeaa/) |
+
+This course was a very in depth overview of the Spring Framework.

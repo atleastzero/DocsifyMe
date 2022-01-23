@@ -149,7 +149,7 @@ This course covered Java Fundamentals and served as a refresher and supplement t
 
 [If you want to know more about the course via Udemy, click here.](https://www.udemy.com/course/learn-java-se-8-and-prepare-for-the-java-associate-exam/)
 
-# Learn Test Driven Development in Java @ Udemy
+###### Learn Test Driven Development in Java @ Udemy +
 
 | Where | When | Certificate |
 | ----- | ---- | ----------- |
@@ -160,6 +160,18 @@ This course covered Test Driven Development concepts with Java specific examples
 [If you want to know more about my experience with the TDD course I took from Udemy, click here.](extra-learning/Udemy/TDDJava.md)
 
 [If you want to know more about the course via Udemy, click here.](https://www.udemy.com/course/learn-test-driven-development-in-java)
+
+##### Spring Framework Master Class - Java Spring the Modern Way @ Udemy +
+
+| Where | When | Certificate |
+| ----- | ---- | ----------- |
+| Remote | 17 Jan 2022 | [Certificate](https://www.udemy.com/certificate/UC-67b5e18a-235b-4433-b7b9-09af290feeaa/) |
+
+This course was a very in depth overview of the Spring Framework.
+
+[If you want to know more about my experience with the Spring course I took from Udemy, click here.](extra-learning/Udemy/SpringFramework.md)
+
+[If you want to know more about the course via Udemy, click here.](https://www.udemy.com/course/spring-tutorial-for-beginners/)
 
 ## Projects +
 
