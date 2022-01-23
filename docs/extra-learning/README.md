@@ -79,3 +79,11 @@ This course covered Test Driven Development concepts with Java specific examples
 | Remote | 17 Jan 2022 | [Certificate](https://www.udemy.com/certificate/UC-67b5e18a-235b-4433-b7b9-09af290feeaa/) |
 
 This course was a very in depth overview of the Spring Framework.
+
+### Testing Spring Boot: Beginner to Guru
+
+| Where | When | Certificate |
+| ----- | ---- | ----------- |
+| Remote | 5 Jan 2022 | [Certificate](https://www.udemy.com/certificate/UC-30638d04-87b1-4a39-b05e-215ba91c55bb/) |
+
+This course covered Spring specific testing skills.

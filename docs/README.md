@@ -173,6 +173,18 @@ This course was a very in depth overview of the Spring Framework.
 
 [If you want to know more about the course via Udemy, click here.](https://www.udemy.com/course/spring-tutorial-for-beginners/)
 
+##### Testing Spring Boot: Beginner to Guru
+
+| Where | When | Certificate |
+| ----- | ---- | ----------- |
+| Remote | 5 Jan 2022 | [Certificate](https://www.udemy.com/certificate/UC-30638d04-87b1-4a39-b05e-215ba91c55bb/) |
+
+This course covered Spring specific testing skills.
+
+[If you want to know more about my experience with the Spring course I took from Udemy, click here.](extra-learning/Udemy/TestingSpring.md)
+
+[If you want to know more about the course via Udemy, click here.](https://www.udemy.com/course/testing-spring-boot-beginner-to-guru/)
+
 ## Projects +
 
 Check out my projects in more depth [here](projects/README.md).
