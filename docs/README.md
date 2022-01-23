@@ -184,7 +184,7 @@ This course covered Test Driven Development concepts with Java specific examples
 
 [If you want to know more about the course via Udemy, click here.](https://www.udemy.com/course/learn-test-driven-development-in-java)
 
-##### Spring Framework Master Class - Java Spring the Modern Way @ Udemy +
+##### Spring Framework Master Class - Java Spring the Modern Way +
 
 | Where | When | Certificate |
 | ----- | ---- | ----------- |
