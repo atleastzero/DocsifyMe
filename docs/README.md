@@ -133,6 +133,29 @@ This course served as my introduction to Next.js, a JAMstack tool by Vercel, inc
 
 [If you want to know more about the course via Educative, click here.](https://www.educative.io/courses/next-js-build-react-apps)
 
+##### Developing Microservices with Spring Boot @ Educative +
+
+| Where | When | Certificate |
+| ----- | ---- | ----------- |
+| Remote | 23 Jan 2021 | [Certificate](https://www.educative.io/verify-certificate/mErN2YBxwERC6J3mmmw5kwC4A0Vz1jEgRu8) |
+
+This course introduced some Microservices concepts within the context of Spring Boot
+
+This course covered the following skills:
+ - [x] Spring MVC
+ - [x] Microservices
+ - [x] Spring Boot
+ - [x] Spring Initializr
+ - [x] Annotations
+   - [x] @Configuration
+   - [x] @SpringBootApplication
+   - [x] @Bean
+   - [x] @Component
+   - [x] @Controller
+ - [x] Configuration Management
+ - [x] Thymeleaf
+ - [x] Spring Data
+ - [x] Error Handling
 #### Udemy +
 
 [Udemy](https://udemy.com) is a for-profit massive open online course provider aimed at professional adults and students.
@@ -173,7 +196,7 @@ This course was a very in depth overview of the Spring Framework.
 
 [If you want to know more about the course via Udemy, click here.](https://www.udemy.com/course/spring-tutorial-for-beginners/)
 
-##### Testing Spring Boot: Beginner to Guru
+##### Testing Spring Boot: Beginner to Guru @ Udemy +
 
 | Where | When | Certificate |
 | ----- | ---- | ----------- |

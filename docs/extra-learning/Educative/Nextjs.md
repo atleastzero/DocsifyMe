@@ -2,7 +2,7 @@
 
 | Where | When | Certificate |
 | ----- | ---- | ----------- |
-| Remote | Finished this May 21, 2021 | [Certificate](https://www.educative.io/verify-certificate/OZwK42rwEGMswGrD4yv8Z3FWLlJgzQRxKUB) |
+| Remote | 21 May 2021 | [Certificate](https://www.educative.io/verify-certificate/OZwK42rwEGMswGrD4yv8Z3FWLlJgzQRxKUB) |
 
 This course served as my introduction to Next.js, a JAMstack tool by Vercel, including hybrid static & server rendering, route pre-fetching, and more.
 
