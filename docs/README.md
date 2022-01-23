@@ -133,7 +133,7 @@ This course served as my introduction to Next.js, a JAMstack tool by Vercel, inc
 
 [If you want to know more about the course via Educative, click here.](https://www.educative.io/courses/next-js-build-react-apps)
 
-##### Developing Microservices with Spring Boot @ Educative +
+##### Developing Microservices with Spring Boot +
 
 | Where | When | Certificate |
 | ----- | ---- | ----------- |
@@ -172,7 +172,7 @@ This course covered Java Fundamentals and served as a refresher and supplement t
 
 [If you want to know more about the course via Udemy, click here.](https://www.udemy.com/course/learn-java-se-8-and-prepare-for-the-java-associate-exam/)
 
-###### Learn Test Driven Development in Java @ Udemy +
+###### Learn Test Driven Development in Java +
 
 | Where | When | Certificate |
 | ----- | ---- | ----------- |
