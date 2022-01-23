@@ -1,4 +1,4 @@
-# Learn Test Driven Development in Java @ Udemy
+# Learn Test Driven Development in Java
 
 | Where | When | Certificate |
 | ----- | ---- | ----------- |
